@@ -36,6 +36,6 @@ Contact ...
      <!-- <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /> </a>-->
 <br><br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas1516&hide=java,typescript&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas1516&hide=java,gherkin,typescript&layout=compact)
 <br><br>
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonatas1516&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
