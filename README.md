@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jonatas1516=anuraghazra&hide_progress=true)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?jonatas1516/jonatas1516=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
