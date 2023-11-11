@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello, my name is Jonatas Souza, I am a developer who uses technology to solve problems
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/jonatas1516=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+This is the space where imagination and creativity are transformed into code.
