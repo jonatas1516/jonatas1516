@@ -20,6 +20,6 @@ Hello, my name is Jonatas Souza, I am a developer who uses technology to solve p
 This is the space where imagination and creativity are transformed into code.
 
 This is the space for projects with: 
-    - HTML https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+    - HTML <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
     - CSS
-    - JavaScript https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+    - JavaScript
